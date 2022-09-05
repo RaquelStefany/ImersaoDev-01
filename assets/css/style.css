@@ -60,6 +60,9 @@ form input{
     -o-border-radius: 5px;
     height: 25px;
     border: white 1px solid;
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
 }
 
 form input:focus{
